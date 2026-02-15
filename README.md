@@ -28,7 +28,7 @@ This lab shows the effectiveness of KMeans clustering in arranging visual data w
 # Initial Clustering Result
 ![Initial Clustering](Screenshot 2026-02-15 232153.png)
 
-#Initial Clustering Graph
+# Initial Clustering Graph
 ![Initial Clustering Graph](Screenshot 2026-02-15 232202.png)
 
 # Template Image Face Detection
