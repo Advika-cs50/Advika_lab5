@@ -24,13 +24,18 @@ This lab shows the effectiveness of KMeans clustering in arranging visual data w
 # Visualisations
 # Face Detection
 ![Face Detection](Screenshot 2026-02-15 232137.png)
+
 # Initial Clustering Result
 ![Initial Clustering](Screenshot 2026-02-15 232153.png)
+
 #Initial Clustering Graph
 ![Initial Clustering Graph](Screenshot 2026-02-15 232202.png)
+
 # Template Image Face Detection
 ![Template Detection](Screenshot 2026-02-15 232213.png)
+
 # Final Clustering Result
 ![Final Clustering](Screenshot 2026-02-15 232222.png)
+
 # Final Clustering Graph
 ![Final Clustering Graph](Screenshot 2026-02-15 232234.png)
